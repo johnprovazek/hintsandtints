@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hintsandtints/static/css/main.dde0d8f1.chunk.css",
+    "main.js": "/hintsandtints/static/js/main.79eb9260.chunk.js",
+    "main.js.map": "/hintsandtints/static/js/main.79eb9260.chunk.js.map",
+    "runtime-main.js": "/hintsandtints/static/js/runtime-main.de5e32ed.js",
+    "runtime-main.js.map": "/hintsandtints/static/js/runtime-main.de5e32ed.js.map",
+    "static/js/2.249f425a.chunk.js": "/hintsandtints/static/js/2.249f425a.chunk.js",
+    "static/js/2.249f425a.chunk.js.map": "/hintsandtints/static/js/2.249f425a.chunk.js.map",
+    "static/js/3.8a1c56f5.chunk.js": "/hintsandtints/static/js/3.8a1c56f5.chunk.js",
+    "static/js/3.8a1c56f5.chunk.js.map": "/hintsandtints/static/js/3.8a1c56f5.chunk.js.map",
+    "index.html": "/hintsandtints/index.html",
+    "static/css/main.dde0d8f1.chunk.css.map": "/hintsandtints/static/css/main.dde0d8f1.chunk.css.map",
+    "static/js/2.249f425a.chunk.js.LICENSE.txt": "/hintsandtints/static/js/2.249f425a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hintsandtints/static/media/logo_900_600.3f9defc1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de5e32ed.js",
+    "static/js/2.249f425a.chunk.js",
+    "static/css/main.dde0d8f1.chunk.css",
+    "static/js/main.79eb9260.chunk.js"
+  ]
+}
