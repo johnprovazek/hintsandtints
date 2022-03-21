@@ -12,7 +12,7 @@ Built using React and Google Firebase.
 
 ## Bugs & Improvements
 
-- The gh-pages branch display is not consitent with the local server display. For some reason the H row is missing.
+- The gh-pages branch display is not consistent with the local server display. For some reason the H row is missing.
 - Determine what size screens are too small and display an error message.
 - Start connecting this application with Google Firebase.
 
