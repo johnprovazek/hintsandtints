@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-// import firebase from "../util/firebase";
 
 class Console extends Component {
     constructor(props) {
