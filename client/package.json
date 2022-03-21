@@ -1,6 +1,6 @@
 {
     "name": "client",
-    "homepage": ".",
+    "homepage": "https://johnprovazek.com/hintsandtints/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
