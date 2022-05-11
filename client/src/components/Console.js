@@ -65,8 +65,8 @@ class Console extends Component {
                         <span>Rules</span>
                     </div>
                     <div id="PB4"></div>
-                    <a className="text-centered two-unit-button" id="BEE" href="https://www.buymeacoffee.com/johnprovazek" target="_blank" rel="noreferrer">
-                        <span>Buy Me A Beer</span>
+                    <a className="text-centered two-unit-button" id="BEE" href="https://www.amazon.com/USAOPOLY-Vibrant-Guessing-Perfect-Together/dp/B084D2XQ9F" target="_blank" rel="noreferrer">
+                        <span>Buy the Game</span>
                     </a>
                 </div>
             </div>
@@ -229,8 +229,8 @@ class Console extends Component {
                     <span>Submit</span>
                 </div>
                 <div id="CB2"></div>
-                <a className="text-centered two-unit-button" id="BEE" href="https://www.buymeacoffee.com/johnprovazek" target="_blank" rel="noreferrer">
-                    <span>Buy Me A Beer</span>
+                <a className="text-centered two-unit-button" id="BEE" href="https://www.amazon.com/USAOPOLY-Vibrant-Guessing-Perfect-Together/dp/B084D2XQ9F" target="_blank" rel="noreferrer">
+                    <span>Buy the Game</span>
                 </a>
                 <div id="CBB"></div>
                 <div id="CBR"></div>
@@ -251,8 +251,8 @@ class Console extends Component {
                     <span>Join Game</span>
                 </div>
                 <div id="CB2"></div>
-                <a className="text-centered two-unit-button"id="BEE" href="https://www.buymeacoffee.com/johnprovazek" target="_blank" rel="noreferrer">
-                    <span>Buy Me A Beer</span>
+                <a className="text-centered two-unit-button" id="BEE" href="https://www.amazon.com/USAOPOLY-Vibrant-Guessing-Perfect-Together/dp/B084D2XQ9F" target="_blank" rel="noreferrer">
+                    <span>Buy the Game</span>
                 </a>
                 <div id="CBB"></div>
                 <div id="CBR"></div>
